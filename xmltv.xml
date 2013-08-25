@@ -54,4 +54,22 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="9">
 <title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Cần Thơ</title>
 </programme>
+<channel id="10">
+<display-name lang="vi">VTV Cần Thơ 2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="10">
+<title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Cần Thơ</title>
+</programme>
+<channel id="11">
+<display-name lang="vi">VTV Đà Nẵng</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="11">
+<title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Đà Nẵng</title>
+</programme>
+<channel id="12">
+<display-name lang="vi">VTV Phú Yên</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="12">
+<title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Phú Yên</title>
+</programme>
 </tv>
