@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Mytv">
 <channel id="1">
-<display-name lang="vi">Animal Planet</display-name>
+<display-name lang="vi">VTV1</display-name>
 <base-url>http://www.mytv.com.vn/lich-phat-song</base-url>
 </channel>
 </tv>
