@@ -3,19 +3,19 @@
 <channel id="1">
 <display-name lang="vi">VTV1</display-name>
 </channel>
-<programme start="20130825000000 +0700" stop="20140825000000 +0700">
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="1">
 <title lang="vi">Kênh Thời sự - Chính trị tổng hợp</title>
 </programme>
 <channel id="2">
 <display-name lang="vi">VTV2</display-name>
 </channel>
-<programme start="20130825000000 +0700" stop="20140825000000 +0700">
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="2">
 <title lang="vi">Kênh Khoa học - Giáo dục - Thể thao</title>
 </programme>
 <channel id="3">
 <display-name lang="vi">VTV3</display-name>
 </channel>
-<programme start="20130825000000 +0700" stop="20140825000000 +0700">
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="3">
 <title lang="vi">Kênh Thể thao - Giải trí - Thông tin kinh tế</title>
 </programme>
 </tv>
