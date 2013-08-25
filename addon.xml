@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Mytv">
+<?xml version="1.0" encoding="utf-8" ?>                                                          
+<tv generator-info-name="mytv" generator-info-url="http://www.mytv.com.vn/lich-phat-song">
 <channel id="1">
 <display-name lang="vi">VTV1</display-name>
-<base-url>http://www.mytv.com.vn/lich-phat-song</base-url>
 </channel>
+<programme start="20130825000000 +0700" stop="201408250000000 +0700" channel="1">
+<title lang="vi">Kênh tổng hợp</title>
+</programme>
 </tv>
