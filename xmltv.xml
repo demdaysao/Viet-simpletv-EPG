@@ -72,4 +72,76 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="12">
 <title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Phú Yên</title>
 </programme>
+<channel id="13">
+<display-name lang="vi">K+1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="13">
+<title lang="vi">Kênh Thể thao - Giải trí</title>
+</programme>
+<channel id="14">
+<display-name lang="vi">VTVcab1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="14">
+<title lang="vi">Kênh Giải trí tổng hợp</title>
+</programme>
+<channel id="15">
+<display-name lang="vi">VTVcab2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="15">
+<title lang="vi">Kênh phim truyện Việt Nam</title>
+</programme>
+<channel id="16">
+<display-name lang="vi">VTVcab3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="16">
+<title lang="vi">Kênh Thể thao TV - Kênh chuyên biệt về thể thao</title>
+</programme>
+<channel id="17">
+<display-name lang="vi">VTVcab4</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="17">
+<title lang="vi">M4ME - Kênh chuyên biệt về ca nhạc trẻ</title>
+</programme>
+<channel id="18">
+<display-name lang="vi">VTVcab5</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="18">
+<title lang="vi">Echannel - Kênh giải trí tổng hợp hướng thực tế cho khán giả nữ độ tuổi từ 18 đến 45</title>
+</programme>
+<channel id="19">
+<display-name lang="vi">VTVcab6</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="19">
+<title lang="vi">Kênh Khoa học - Giáo dục - Giải trí</title>
+</programme>
+<channel id="20">
+<display-name lang="vi">VTVcab7</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="20">
+<title lang="vi">D-Dramas - Kênh phim truyện châu Á </title>
+</programme>
+<channel id="21">
+<display-name lang="vi">VTVcab8</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="21">
+<title lang="vi">BiBi - Kênh hoạt hình thuyết minh tiếng Việt dành cho thiếu nhi</title>
+</programme>
+<channel id="22">
+<display-name lang="vi">VTVcab9</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="22">
+<title lang="vi">Info TV - Kênh Kinh tế - Tài chính - Chứng khoán</title>
+</programme>
+<channel id="23">
+<display-name lang="vi">VTVcab10</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="23">
+<title lang="vi">O2TV - Kênh chuyên đề sức khỏe</title>
+</programme>
+<channel id="24">
+<display-name lang="vi">VTVcab11</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="24">
+<title lang="vi">TVShopping - Kênh mua sắm hàng hóa trên truyền hình</title>
+</programme>
 </tv>
