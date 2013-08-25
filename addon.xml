@@ -5,5 +5,13 @@
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="1">
 <title lang="vi">Kênh tổng hợp</title>
+<category lang="vi">Đài truyền hình Việt Nam</category>
+</programme>
+<channel id="2">
+<display-name lang="vi">VTV2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="2">
+<title lang="vi">Kênh khoa học thể thao</title>
+<category lang="vi">Đài truyền hình Việt Nam</category>
 </programme>
 </tv>
