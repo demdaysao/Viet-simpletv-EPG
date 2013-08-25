@@ -3,7 +3,7 @@
 <channel id="1">
 <display-name lang="vi">VTV1</display-name>
 </channel>
-<programme start="20130825000000" stop="20140825000000" channel="1">
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="1">
 <title lang="vi">Kênh tổng hợp</title>
 </programme>
 </tv>
