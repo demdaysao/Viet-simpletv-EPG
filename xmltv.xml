@@ -17,5 +17,29 @@
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="3">
 <title lang="vi">Kênh Thể thao - Giải trí - Thông tin kinh tế</title>
+</programme
+<channel id="4">
+<display-name lang="vi">VTV4</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="4">
+<title lang="vi">Kênh dành cho đồng bào xa tổ quốc</title>
+</programme>
+<channel id="5">
+<display-name lang="vi">VTV5</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="5">
+<title lang="vi">Kênh dành cho đòng bào dân tộc thiểu số</title>
+</programme
+<channel id="6">
+<display-name lang="vi">VTV6</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="6">
+<title lang="vi">Kênh giải trí dành cho giới trẻ</title>
+</programme>
+<channel id="7">
+<display-name lang="vi">VTV9</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="7">
+<title lang="vi">Kênh tổng hợp - Trung tâm THVN tại TP.HCM</title>
 </programme>
 </tv>
