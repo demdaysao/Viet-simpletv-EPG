@@ -42,4 +42,16 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="7">
 <title lang="vi">Kênh tổng hợp - Trung tâm THVN tại TP.HCM</title>
 </programme>
+<channel id="8">
+<display-name lang="vi">VTV Huế</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="8">
+<title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Huế</title>
+</programme>
+<channel id="9">
+<display-name lang="vi">VTV Cần Thơ 1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="9">
+<title lang="vi">Kênh tổng hợp - Trung tâm THVN tại Cần Thơ</title>
+</programme>
 </tv>
