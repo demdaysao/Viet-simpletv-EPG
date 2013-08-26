@@ -143,5 +143,35 @@
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="24">
 <title lang="vi">TVShopping - Kênh mua sắm hàng hóa trên truyền hình</title>
+</programme
+<channel id="25">
+<display-name lang="vi">VTVcab12</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="25">
+<title lang="vi">Style TV - Kênh chuyên đề phong cách sống</title>
+</programme>
+<channel id="26">
+<display-name lang="vi">VTVcab14</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="26">
+<title lang="vi">Lotte Đất Việt Homeshopping - Kênh mua sắm</title>
+</programme>
+<channel id="27">
+<display-name lang="vi">VTVcab15</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="27">
+<title lang="vi">InvestTV - Kênh chuyên biệt về lĩnh vực đầu tư, kinh tế và những vấn đề kinh tế xã hội</title>
+</programme>
+<channel id="28">
+<display-name lang="vi">VTVcab16</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="28">
+<title lang="vi">Bóng đá TV phát sóng trực tiếp 5 Giải bóng đá hàng đầu Châu Âu gồm Ngoại hạng Anh (EPL), Tây Ban Nha (La Liga), Đức (Bundesliga), Ý (Serie A) và Pháp (Ligue 1)</title>
+</programme>
+<channel id="29">
+<display-name lang="vi">VTVcab17</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="29">
+<title lang="vi">Kênh 17 - Kênh Giải trí - Du lịch - Khám phá</title>
 </programme>
 </tv>
