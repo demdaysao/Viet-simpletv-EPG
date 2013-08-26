@@ -264,4 +264,112 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="44">
 <title lang="vi">Kênh nông nghiệp, nông thôn</title>
 </programme>
+<channel id="45">
+<display-name lang="vi">SCTV1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="45">
+<title lang="vi">Kênh Hài</title>
+</programme>
+<channel id="46">
+<display-name lang="vi">SCTV2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="46">
+<title lang="vi">Yan TV - Kênh Âm nhạc Quốc tế</title>
+</programme>
+<channel id="47">
+<display-name lang="vi">SCTV3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="47">
+<title lang="vi">Sao TV - Kênh thiếu nhi</title>
+</programme>
+<channel id="48">
+<display-name lang="vi">SCTV4</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="48">
+<title lang="vi">Kênh Giải trí tổng hợp</title>
+</programme>
+<channel id="49">
+<display-name lang="vi">SCTV5</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="49">
+<title lang="vi">Shopping TV - Kênh mua sắm SCJ</title>
+</programme>
+<channel id="50">
+<display-name lang="vi">SCTV6</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="50">
+<title lang="vi">Kênh Truyền Hình Giải Trí Thế Hệ Mới</title>
+</programme>
+<channel id="51">
+<display-name lang="vi">SCTV7</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="51">
+<title lang="vi">Kênh Sân khấu, Văn nghệ Tổng hợp</title>
+</programme>
+<channel id="52">
+<display-name lang="vi">SCTV8</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="52">
+<title lang="vi">Kênh Thông tin Kinh tế - Thị trường</title>
+</programme>
+<channel id="53">
+<display-name lang="vi">SCTV9</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="53">
+<title lang="vi">Kênh phim Châu Á</title>
+</programme>
+<channel id="54">
+<display-name lang="vi">SCTV10</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="54">
+<title lang="vi">Home Shopping Network - Mua sắm</title>
+</programme>
+<channel id="55">
+<display-name lang="vi">SCTV11</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="55">
+<title lang="vi">Hát trên truyền hình</title>
+</programme>
+<channel id="56">
+<display-name lang="vi">SCTV12</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="56">
+<title lang="vi">Kênh Du lịch - Khám phá</title>
+</programme>
+<channel id="57">
+<display-name lang="vi">SCTV13</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="57">
+<title lang="vi">Kênh Phụ nữ và gia đình</title>
+</programme>
+<channel id="58">
+<display-name lang="vi">SCTV14</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="58">
+<title lang="vi">Kênh Phim Việt Nam</title>
+</programme>
+<channel id="59">
+<display-name lang="vi">SCTV15</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="59">
+<title lang="vi">Kênh Thể thao</title>
+</programme>
+<channel id="60">
+<display-name lang="vi">SCTV16</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="60">
+<title lang="vi">Kênh Phim truyện nước ngoài đặc sắc</title>
+</programme>
+<channel id="61">
+<display-name lang="vi">SCTV17</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="61">
+<title lang="vi">Kênh phim tổng hợp</title>
+</programme>
+<channel id="62">
+<display-name lang="vi">SCTV18</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="62">
+<title lang="vi">Kênh Thể thao</title>
+</programme>
 </tv>
