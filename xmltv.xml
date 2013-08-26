@@ -372,4 +372,88 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="62">
 <title lang="vi">Kênh Thể thao</title>
 </programme>
+<channel id="63">
+<display-name lang="vi">HTV1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="63">
+<title lang="vi">Kênh Thông tin công cộng</title>
+</programme>
+<channel id="64">
+<display-name lang="vi">HTV2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="64">
+<title lang="vi">Kênh Giải trí Tổng hợp</title>
+</programme>
+<channel id="65">
+<display-name lang="vi">HTV3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="65">
+<title lang="vi"> Kênh Thiếu nhi</title>
+</programme>
+<channel id="66">
+<display-name lang="vi">HTV4</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="66">
+<title lang="vi">Kênh Khoa học - Giáo dục</title>
+</programme>
+<channel id="67">
+<display-name lang="vi">HTV7</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="67">
+<title lang="vi">Kênh Tổng hợp</title>
+</programme>
+<channel id="68">
+<display-name lang="vi">HTV9</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="68">
+<title lang="vi">Kênh Tổng hợp</title>
+</programme>
+<channel id="69">
+<display-name lang="vi">HTVC Thể thao</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="69">
+<title lang="vi">Kênh Thể thao</title>
+</programme>
+<channel id="70">
+<display-name lang="vi">HTVC Ca nhạc</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="70">
+<title lang="vi">Kênh Ca nhạc Tổng hợp</title>
+</programme>
+<channel id="71">
+<display-name lang="vi">HTVC Phim</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="71">
+<title lang="vi">Kênh Phim truyện</title>
+</programme>
+<channel id="72">
+<display-name lang="vi">HTVC Gia đình</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="72">
+<title lang="vi">Kênh Giải trí Tổng hợp</title>
+</programme>
+<channel id="73">
+<display-name lang="vi">HTVC Du lịch</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="73">
+<title lang="vi">Kênh Du lịch, Văn hóa, Lịch sử</title>
+</programme>
+<channel id="74">
+<display-name lang="vi">HTVC Shopping</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="74">
+<title lang="vi">Kênh Giới thiệu sản phẩm hàng hóa, dịch vụ khuyến mãi</title>
+</programme>
+<channel id="75">
+<display-name lang="vi">HTVC Phụ nữ</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="75">
+<title lang="vi">Kênh Giải trí Tổng hợp dành cho Phụ nữ</title>
+</programme>
+<channel id="76">
+<display-name lang="vi">Thuần Việt</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="76">
+<title lang="vi">Kênh Giải trí Tổng hợp Thuần Việt</title>
+</programme>
 </tv>
