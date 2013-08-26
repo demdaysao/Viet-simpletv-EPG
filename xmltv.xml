@@ -174,4 +174,94 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="29">
 <title lang="vi">Kênh 17 - Kênh Giải trí - Du lịch - Khám phá</title>
 </programme>
+<channel id="30">
+<display-name lang="vi">VTC1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="30">
+<title lang="vi">Kênh thời sự tổng hợp</title>
+</programme>
+<channel id="31">
+<display-name lang="vi">VTC2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="31">
+<title lang="vi">Kênh khoa học công nghệ</title>
+</programme>
+<channel id="32">
+<display-name lang="vi">VTC3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="32">
+<title lang="vi">Kênh thể thao</title>
+</programme>
+<channel id="33">
+<display-name lang="vi">VTC4</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="33">
+<title lang="vi">Kênh tổng hợp</title>
+</programme>
+<channel id="34">
+<display-name lang="vi">VTC5</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="34">
+<title lang="vi">Kênh phim truyền hình</title>
+</programme>
+<channel id="35">
+<display-name lang="vi">VTC6</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="35">
+<title lang="vi">Kênh phim truyện Việt nam</title>
+</programme>
+<channel id="36">
+<display-name lang="vi">VTC7</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="36">
+<title lang="vi">Kênh Today TV giải trí tổng hợp </title>
+</programme>
+<channel id="37">
+<display-name lang="vi">VTC8</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="37">
+<title lang="vi">Kênh thông tin kinh tế</title>
+</programme>
+<channel id="38">
+<display-name lang="vi">VTC9</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="38">
+<title lang="vi">Kênh Let's Việt giải trí tổng hợp</title>
+</programme>
+<channel id="39">
+<display-name lang="vi">VTC10</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="39">
+<title lang="vi">Kênh văn hoá Việt </title>
+</programme>
+<channel id="40">
+<display-name lang="vi">VTC11</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="40">
+<title lang="vi">Kênh phim hoạt hình thiếu nhi</title>
+</programme>
+<channel id="41">
+<display-name lang="vi">VTC12</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="41">
+<title lang="vi">Kênh mua sắm</title>
+</programme>
+<channel id="42">
+<display-name lang="vi">ITV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="42">
+<title lang="vi">Kênh ca nhạc theo yêu cầu</title>
+</programme>
+<channel id="43">
+<display-name lang="vi">VTC14</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="43">
+<title lang="vi">Kênh dự báo thảm hoạ thiên tai</title>
+</programme>
+<channel id="44">
+<display-name lang="vi">VTC16</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="44">
+<title lang="vi">Kênh nông nghiệp, nông thôn</title>
+</programme>
 </tv>
