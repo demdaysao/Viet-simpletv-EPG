@@ -456,4 +456,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="76">
 <title lang="vi">Kênh Giải trí Tổng hợp Thuần Việt</title>
 </programme>
+<channel id="77">
+<display-name lang="vi">HTVC+ HD</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="77">
+<title lang="vi">Kênh Tổng hợp</title>
+</programme>
 </tv>
