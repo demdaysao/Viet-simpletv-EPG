@@ -462,4 +462,22 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="77">
 <title lang="vi">Kênh Tổng hợp</title>
 </programme>
+<channel id="78">
+<display-name lang="vi">VTC HD1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="78">
+<title lang="vi">Kênh tổng hợp HD</title>
+</programme>
+<channel id="79">
+<display-name lang="vi">VTC HD2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="79">
+<title lang="vi">Kênh phim truyện HD</title>
+</programme>
+<channel id="80">
+<display-name lang="vi">VTCHD3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="80">
+<title lang="vi">Kênh giải trí tổng hợp HD</title>
+</programme>
 </tv>
