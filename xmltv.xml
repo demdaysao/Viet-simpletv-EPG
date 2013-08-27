@@ -564,10 +564,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="94">
 <title lang="vi">Kênh thể thao Arập</title>
 </programme>
-<channel id="95">
+<channel id="206">
 <display-name lang="vi">Russia 2</display-name>
 </channel>
-<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="95">
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="206">
 <title lang="vi">Kênh tổng hợp tiếng Nga</title>
 </programme>
 <channel id="95">
