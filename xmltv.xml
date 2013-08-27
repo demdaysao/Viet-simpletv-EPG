@@ -876,4 +876,352 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="145">
 <title lang="vi">Kênh thể thao Anh Quốc</title>
 </programme>
+<channel id="146">
+<display-name lang="vi">QPVN</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="146">
+<title lang="vi">Kênh truyền hình quân sự quốc phòng Việt Nam</title>
+</programme>
+<channel id="147">
+<display-name lang="vi">ANTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="147">
+<title lang="vi">Kênh truyền hình an ninh nhân dân</title>
+</programme>
+<channel id="148">
+<display-name lang="vi">VOVTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="148">
+<title lang="vi">Kênh truyền hình của đài tiếng nói Việt Nam</title>
+</programme>
+<channel id="149">
+<display-name lang="vi">TTXVN</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="149">
+<title lang="vi">VNews - Kênh tin tức đa ngôn ngữ thông tấn xã Việt Nam</title>
+</programme>
+<channel id="150">
+<display-name lang="vi">NCT</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="150">
+<title lang="vi">Kênh Âm nhạc - Giải trí</title>
+</programme>
+<channel id="151">
+<display-name lang="vi">LifeTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="151">
+<title lang="vi">Kênh giải trí tổng hợp</title>
+</programme>
+<channel id="152">
+<display-name lang="vi">NgheAnTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="152">
+<title lang="vi">Kênh tổng hợp - Đài PTTH Nghệ An</title>
+</programme>
+<channel id="153">
+<display-name lang="vi">HaNoiTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="153">
+<title lang="vi">Kênh tổng hợp - Đài PTTH Hà Nội</title>
+</programme>
+<channel id="154">
+<display-name lang="vi">THVL</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="154">
+<title lang="vi">Kênh tổng hợp - Đài TH Vĩnh Long</title>
+</programme>
+<channel id="155">
+<display-name lang="vi">BTV1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="155">
+<title lang="vi">Kênh tổng hợp - Đài TH Bình Dương</title>
+</programme>
+<channel id="156">
+<display-name lang="vi">BTV2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="156">
+<title lang="vi">Kênh giải trí - Đài TH Bình Dương</title>
+</programme>
+<channel id="157">
+<display-name lang="vi">DongNaiTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="157">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Đồng Nai</title>
+</programme>
+<channel id="158">
+<display-name lang="vi">LongAnTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="158">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Long An</title>
+</programme>
+<channel id="159">
+<display-name lang="vi">CanThoTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="159">
+<title lang="vi">Kênh tỏng hợp - Đài TH TP.Cần Thơ</title>
+</programme>
+<channel id="160">
+<display-name lang="vi">NinhThuanTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="160">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Ninh Thuận</title>
+</programme>
+<channel id="161">
+<display-name lang="vi">KienGiangTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="161">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Kiên Giang</title>
+</programme>
+<channel id="162">
+<display-name lang="vi">HiPhongTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="162">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Hải Phòng</title>
+</programme>
+<channel id="163">
+<display-name lang="vi">HoaBinhTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="163">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Hòa Bình</title>
+</programme>
+<channel id="164">
+<display-name lang="vi">BacNinhTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="164">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Bắc Ninh</title>
+</programme>
+<channel id="165">
+<display-name lang="vi">TayNinhTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="165">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Tây Ninh</title>
+</programme>
+<channel id="166">
+<display-name lang="vi">ThaiNguyenTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="166">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Thái Nguyên</title>
+</programme>
+<channel id="167">
+<display-name lang="vi">HauGiangTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="167">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Hậu Giang</title>
+</programme>
+<channel id="168">
+<display-name lang="vi">DongThapTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="168">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Đồng Tháp</title>
+</programme>
+<channel id="169">
+<display-name lang="vi">KhanhHoaTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="169">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Khánh Hòa</title>
+</programme>
+<channel id="170">
+<display-name lang="vi">QuangNamTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="170">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Quảng Nam</title>
+</programme>
+<channel id="171">
+<display-name lang="vi">SocTrangTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="171">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Sóc Trăng</title>
+</programme>
+<channel id="172">
+<display-name lang="vi">TT-HueTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="172">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Thừa Thiên Huế</title>
+</programme>
+<channel id="173">
+<display-name lang="vi">QuangTriTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="173">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Quảng Trị</title>
+</programme>
+<channel id="175">
+<display-name lang="vi">PhuThoTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="175">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Phú Thọ</title>
+</programme>
+<channel id="176">
+<display-name lang="vi">LangSonTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="176">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Lạng Sơn</title>
+</programme>
+<channel id="177">
+<display-name lang="vi">TuyenQuangTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="177">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Tuyên Quang</title>
+</programme>
+<channel id="178">
+<display-name lang="vi">TienGiangTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="178">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Tiền Giang</title>
+</programme>
+<channel id="179">
+<display-name lang="vi">QuangNinhTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="179">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Quảng Ninh</title>
+</programme>
+<channel id="180">
+<display-name lang="vi">LamDongTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="180">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Lâm Đồng</title>
+</programme>
+<channel id="181">
+<display-name lang="vi">VinhPhucTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="181">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Vĩnh Phúc</title>
+</programme>
+<channel id="182">
+<display-name lang="vi">AnGiangTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="182">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH An Giang</title>
+</programme>
+<channel id="183">
+<display-name lang="vi">BinhPhuocTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="183">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Bình Phước</title>
+</programme>
+<channel id="184">
+<display-name lang="vi">BinhThuanTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="184">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Bình Thuận</title>
+</programme>
+<channel id="185">
+<display-name lang="vi">BR-VungTauTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="185">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Bà Rịa Vũng Tàu</title>
+</programme>
+<channel id="186">
+<display-name lang="vi">BacLieuTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="186">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Bạc Liêu</title>
+</programme>
+<channel id="187">
+<display-name lang="vi">ThanhHoaTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="187">
+<title lang="vi">Kênh tỏng hợp - Đài PTTH Thanh Hóa</title>
+</programme>
+<channel id="188">
+<display-name lang="vi">Futbol+</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="188">
+<title lang="vi">Kênh bóng đá plus Ukraina tường thuật các giải đấu hàng đầu châu Âu</title>
+</programme>
+<channel id="189">
+<display-name lang="vi">Futbol</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="189">
+<title lang="vi">Kênh bóng đá plus Ukraina</title>
+</programme>
+<channel id="190">
+<display-name lang="vi">Telekanal Futbol</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="190">
+<title lang="vi">Kênh bóng đá Nga</title>
+</programme>
+<channel id="191">
+<display-name lang="vi">Sport 1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="191">
+<title lang="vi">Kênh thể thao Nga</title>
+</programme>
+<channel id="192">
+<display-name lang="vi">Viasat Sport</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="192">
+<title lang="vi">Kênh thể thao Mỹ</title>
+</programme>
+<channel id="193">
+<display-name lang="vi">Viasat Sport Baltic</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="193">
+<title lang="vi">Kênh thể thao Latvia</title>
+</programme>
+<channel id="194">
+<display-name lang="vi">Sport</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="194">
+<title lang="vi">Kênh thể thao Nga</title>
+</programme>
+<channel id="195">
+<display-name lang="vi">Sport 1 Select</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="195">
+<title lang="vi">Kênh thể thao Đức</title>
+</programme>
+<channel id="196">
+<display-name lang="vi">Sport 1 Voetbal</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="196">
+<title lang="vi">Kênh thể thao Đức</title>
+</programme>
+<channel id="197">
+<display-name lang="vi">Sport 1 (UA)</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="197">
+<title lang="vi">Kênh thể thao Ukraina</title>
+</programme>
+<channel id="198">
+<display-name lang="vi">Sport 2 (UA)</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="198">
+<title lang="vi">Kênh thể thao Ukraina</title>
+</programme>
+<channel id="199">
+<display-name lang="vi">NTV+ Futbol</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="199">
+<title lang="vi">Kênh bóng đá Nga tường thuật các giải đấu hàng đầu châu Âu</title>
+</programme>
+<channel id="200">
+<display-name lang="vi">NTV+ Futbol 2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="200">
+<title lang="vi">Kênh bóng đá Nga tường thuật các giải đấu hàng đầu châu Âu</title>
+</programme>
+<channel id="201">
+<display-name lang="vi">NTV+ Nash Futbol</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="201">
+<title lang="vi">Kênh bóng đá Nga</title>
+</programme>
+<channel id="202">
+<display-name lang="vi">Sentana Sports</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="202">
+<title lang="vi">Kênh thể thao Australia</title>
+</programme>
+<channel id="203">
+<display-name lang="vi">18+</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="203">
+<title lang="vi">Kênh phim người lớn cấm trẻ dưới 18 tuổi</title>
+</programme>
+<channel id="204">
+<display-name lang="vi">Trực tiếp bóng đá</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="204">
+<title lang="vi">Kênh phát trực tiếp các trận đấu bóng đá chỉ lên sóng khi có trận đấu</title>
+</programme>
 </tv>
