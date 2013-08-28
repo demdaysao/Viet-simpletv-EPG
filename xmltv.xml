@@ -1150,7 +1150,7 @@
 <display-name lang="vi">Viasat Sport</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="192">
-<title lang="vi">Kênh thể thao Mỹ</title>
+<title lang="vi">Kênh thể thao Latvia</title>
 </programme>
 <channel id="193">
 <display-name lang="vi">Viasat Sport Baltic</display-name>
@@ -1229,5 +1229,41 @@
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="205">
 <title lang="vi">Kênh tổng hợp - Đài PTTH Đà Nẵng</title>
+</programme>
+<channel id="206">
+<display-name lang="vi">Sky Sport 1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="206">
+<title lang="vi">Kênh thể thao Anh tường thuật Ngoại hạng Anh</title>
+</programme>
+<channel id="207">
+<display-name lang="vi">LigTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="207">
+<title lang="vi">Kênh thể thao Thổ Nhĩ Kỳ tường thuật bóng đá châu Âu</title>
+</programme>
+<channel id="208">
+<display-name lang="vi">Fox Sports 1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="208">
+<title lang="vi">Kênh thể thao Hà Lan tường thuật bóng đá Hà Lan</title>
+</programme>
+<channel id="209">
+<display-name lang="vi">Fox Sports 2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="209">
+<title lang="vi">Kênh thể thao Hà Lan tường thuật bóng đá châu Âu</title>
+</programme>
+<channel id="210">
+<display-name lang="vi">Fox Sports 3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="210">
+<title lang="vi">Kênh thể thao Hà Lan</title>
+</programme>
+<channel id="">
+<display-name lang="vi">Fox Sports 4</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="">
+<title lang="vi">Kênh thể thao Hà Lan</title>
 </programme>
 </tv>
