@@ -1230,10 +1230,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="205">
 <title lang="vi">Kênh tổng hợp - Đài PTTH Đà Nẵng</title>
 </programme>
-<channel id="206">
+<channel id="212">
 <display-name lang="vi">Sky Sport 1</display-name>
 </channel>
-<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="206">
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="212">
 <title lang="vi">Kênh thể thao Anh tường thuật Ngoại hạng Anh</title>
 </programme>
 <channel id="207">
