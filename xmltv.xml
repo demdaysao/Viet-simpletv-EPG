@@ -1266,4 +1266,70 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="211">
 <title lang="vi">Kênh thể thao Hà Lan</title>
 </programme>
+<channel id="220">
+<display-name lang="vi">LifeTV Model</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="220">
+<title lang="vi">Kênh thời trang cuộc sống</title>
+</programme>
+<channel id="221">
+<display-name lang="vi">HiTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="221">
+<title lang="vi">Kênh Thông tin Văn hóa - Kinh tế - Xã hội</title>
+</programme>
+<channel id="222">
+<display-name lang="vi">TVM</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="222">
+<title lang="vi">Kênh Tư vấn tiêu dùng và Đầu tư tài chính</title>
+</programme>
+<channel id="223">
+<display-name lang="vi">HCaTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="223">
+<title lang="vi">Kênh giải trí tổng hợp</title>
+</programme>
+<channel id="224">
+<display-name lang="vi">RAI</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="224">
+<title lang="vi">Kênh tổng hợp tiếng Ý</title>
+</programme>
+<channel id="225">
+<display-name lang="vi">OPT1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="225">
+<title lang="vi">Kênh tổng hợp tiếng Nga</title>
+</programme>
+<channel id="226">
+<display-name lang="vi">Australia Network</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="226">
+<title lang="vi">Kênh tổng hợp tiếng Anh</title>
+</programme>
+<channel id="227">
+<display-name lang="vi">TLC</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="227">
+<title lang="vi">Khoa học khám phá và cuộc sống</title>
+</programme>
+<channel id="228">
+<display-name lang="vi">Asia News</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="228">
+<title lang="vi">Kênh tin tức tiếng Anh</title>
+</programme>
+<channel id="229">
+<display-name lang="vi">VITV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="229">
+<title lang="vi">Kênh Thông tin kinh tế - tài chính</title>
+</programme>
+<channel id="230">
+<display-name lang="vi">BBC World</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="230">
+<title lang="vi">Kênh tin tức tiếng Anh</title>
+</programme>
 </tv>
