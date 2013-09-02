@@ -868,7 +868,7 @@
 <display-name lang="vi">NHK World HD</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="144">
-<title lang="vi">Kênh tin tức thế giới tiếng Anh</title>
+<title lang="vi">Kênh tin tức tổng hợp tiếng Anh</title>
 </programme>
 <channel id="145">
 <display-name lang="vi">Sky Sports</display-name>
